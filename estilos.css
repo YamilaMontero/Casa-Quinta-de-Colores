@@ -1,0 +1,17 @@
+.card{
+    align-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+
+}
+
+.card-title{
+    text-align: center;
+}
+
+
+  
+
+
