@@ -100,7 +100,22 @@ h1 {
         );
       }
   }
-  
+
+  .carousel-inner img {
+    width: 100%;
+    max-height: 890px;
+}
+
+.carousel-inner{
+ height: 20%;
+}
+
+.container{
+    padding-left: 1%;
+    
+}
+
+
 
   
 
