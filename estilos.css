@@ -1,4 +1,7 @@
-
+* {
+    margin: 0;
+    padding: 0;
+  }
 .card{
     align-content: center;
     display: flex;
@@ -51,17 +54,19 @@ h1 {
 
   }
   
-  .border {
-    color: rgb(10, 117, 28);  
+  .tit {
+    color: rgb(2, 15, 4);  
     text-shadow:
       -1px -1px 0 rgb(15, 3, 3),  
       1px -1px 0 rgb(15, 3, 3),  
       -1px 1px 0 rgb(15, 3, 3), 
       1px 1px 0 rgb(15, 3, 3), 
+        
 
   }
 
-  
+
+
   .wave {
     color: #09f;
     animation: wave 3s ease-in-out infinite;
